@@ -3,3 +3,8 @@
     grid-template-columns: auto auto auto;
     gap: 10px;
 }
+
+.users-input{
+    width: 250px;
+    margin-bottom: 20px;
+}
